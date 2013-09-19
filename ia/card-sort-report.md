@@ -60,3 +60,7 @@ Nineteen cards were used covering a broad range of applicable content for the we
 	- I didn't really have any expectations, but the results were completely different than how I originally planned on sorting my information. 
 - How did you feel while watching them perform the task?
 	- Frustrated and intruiged. Frustrated because I already thought I had figured out the best way to sort the information, but intruiged that they had thought of completely different way. 
+- Were some of the groupings completely unexpected?
+	- I did not expect the "no shampoo" category to fall into a dangers category, because it is one of the positive categories. This reminds me that without context a user doesn't know how to organize the information, I suppose. I also didn't expect "dealing with dandruff naturally" to be sorted into the dangers category.
+- The verdict
+	- This excercise really made me realize that if my information can't be sorted by the users, they would have a difficult time understanding it on a website. This excercise convinced me to re-think the content that I was using, and I've sinced simplified it. I've combined my previous sorting method with the ones my participants created to make a system that makes much more sense for the user. 
