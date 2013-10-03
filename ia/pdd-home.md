@@ -2,19 +2,16 @@
 
 ## 1. High
 
-- Link to list of volcanoes
-- Hero presentation of random, special volcano
-- Overview of what classifies a volcano
-- Search
+- Category-based navigation
+- Search bar
 
 ## 2. Medium
 
-- Website branding, logo
-- Primary navigation
-- Volcanoes that are currently erupting
+- Brief description & introduction to natural skincare
+- Quick links to popular pages
+- Website logo & branding
 
 ## 3. Low
 
-- E-mail newsletter
-- Social media links
 - Footer: Copyright and policies
+- Health disclaimer

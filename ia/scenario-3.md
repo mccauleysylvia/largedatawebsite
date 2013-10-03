@@ -1,5 +1,5 @@
 # Scenario
 
 **I am a…** 19-year old freshman
-**I want to…** find a more natural acne remedy 
-**So I can…** clear up my acne and stop taking Accutane.
+**I want to…** learn about tea tree oil
+**So I can…** see how it can be used to reduce acne/acne scars.
